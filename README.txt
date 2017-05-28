@@ -1,24 +1,9 @@
-=================================================================================================
-#If you leeched my codes. Forget my name and don't talk to me anymore
-#Bilang pagrespeto na lang sakin ang hindi pagkopya o pag papamahagi ng script ko na ito
-#Lalong lalo na sa mga grandson . sainyo ko lang maibibigay to.. malaman ko lang na kumalat to 
-#kayo sisisihin ko then di niyo magugustuhan gagawin ko ;D
-=================================================================================================
 GxN - GrandFatherXNightmare - Date Created [April 08 2017] - Python Script  - [Tested Versions : 2.7 / 3.5]
 ================================
-GxN is not an open source yet so that this script will be given or shared only to these persons:
--:- Nightmare - Norjie Macarambon
--:- GrandFather - Lance Kenji Parce
--:- GrandSon III - Reydel Mayo Dabuan
--:- GrandSon II - Jaymhel Adonais
--:- GrandSon I - Kaneki Ken Celso
-=================================
 [MUSTS]
 *Extract the GxN.py before using
 *Extract the lolo.rar in
 - C:\Python27\lib\[here]
-*DO NOT LEECH | SHARE OR COPY MY
-CODE
 =================================
 This script is programmed by GrandFather and some of the codes are from the other scripts but
 I revised some of its functions and features
@@ -58,8 +43,6 @@ enc - MD5 ENCRYPTER
 credits - CREDITS
 -
 Please use these tool for educational purpose if you don't want to himas rehas | get to jail
-Please Do not share with others
-Please Do not leech
 Thanks for reading :D .......
 =================================
 [c] GrandFather
