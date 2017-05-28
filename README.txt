@@ -13,7 +13,7 @@ GxN is not an open source yet so that this script will be given or shared only t
 -:- GrandSon II - Jaymhel Adonais
 -:- GrandSon I - Kaneki Ken Celso
 =================================
-			[MUSTS]
+[MUSTS]
 *Extract the GxN.py before using
 *Extract the lolo.rar in
 - C:\Python27\lib\[here]
