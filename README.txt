@@ -1,4 +1,3 @@
-#GxN [ GrandFather X Nightmare ]
 =================================================================================================
 #If you leeched my codes. Forget my name and don't talk to me anymore
 #Bilang pagrespeto na lang sakin ang hindi pagkopya o pag papamahagi ng script ko na ito
