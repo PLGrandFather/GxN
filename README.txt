@@ -1,4 +1,4 @@
-TESTED IN WINDOWS OPERATING SYSTEM, TRY IT ON OTHER OPERATING SYSTEM
+TESTED IN WINDOWS OPERATING SYSTEM,
 GxN - GrandFatherXNightmare - Date Created [April 08 2017] - Python Script  - [Tested Versions : 2.7 / 3.5]
 ================================
 [MUSTS]
