@@ -23,6 +23,7 @@ from socket import *
 #MAIN FUNCTIONS AND DEF's AND PROGRAMS
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 os.system('clear')
+os.system('pip install terminal')
 
 ftpbrute = '''
                           #####
