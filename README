@@ -1,4 +1,4 @@
-TESTED IN WINDOWS OPERATING SYSTEM,
+TESTED IN WINDOWS OPERATING SYSTEM,(FIXING THIS ONE)
 TESTED IN PARROTSEC OPERATING SYSTEM (DEBIAN LINUX)
 GxN - GrandFatherXNightmare - Date Created [April 08 2017] - Python
 Revised For Linux : [December 23 2017]
@@ -6,6 +6,12 @@ Revised For Linux : [December 23 2017]
 [MUSTS]
 *install terminal module with pip*
 *For better experience, try to adjust the console/terminal size for ascii arts*
+=================================
+[NEW]
+*FIXED SOME ERRORS
+*AUTOMATIC INSTALL REQUIRED MODULES
+*BETTER GFDOS
+*FIXED FTPBRUTE COMMANDS
 =================================
 This script is programmed by GrandFather and some of the codes are from the other scripts but
 I revised some of its functions and features
